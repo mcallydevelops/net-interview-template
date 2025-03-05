@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYyZ73D0TV0=",
+  "success": true,
+  "projectFilePath": "/Users/michaelmcallister/dev/net-interview-template/Tests/Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelmcallister/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.testing.extensions.trxreport.abstractions/1.6.2/microsoft.testing.extensions.trxreport.abstractions.1.6.2.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.testing.platform/1.6.2/microsoft.testing.platform.1.6.2.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.testing.platform.msbuild/1.6.2/microsoft.testing.platform.msbuild.1.6.2.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/microsoft.testplatform.testhost/17.13.0/microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.analyzers/1.20.0/xunit.analyzers.1.20.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.runner.visualstudio/3.0.2/xunit.runner.visualstudio.3.0.2.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3/2.0.0/xunit.v3.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.assert/2.0.0/xunit.v3.assert.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.common/2.0.0/xunit.v3.common.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.core/2.0.0/xunit.v3.core.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.extensibility.core/2.0.0/xunit.v3.extensibility.core.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.runner.common/2.0.0/xunit.v3.runner.common.2.0.0.nupkg.sha512",
+    "/Users/michaelmcallister/.nuget/packages/xunit.v3.runner.inproc.console/2.0.0/xunit.v3.runner.inproc.console.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

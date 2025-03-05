@@ -1,0 +1,12 @@
+/Users/michaelmcallister/dev/net-interview-template/App/bin/Debug/net9.0/App.deps.json
+/Users/michaelmcallister/dev/net-interview-template/App/bin/Debug/net9.0/App.dll
+/Users/michaelmcallister/dev/net-interview-template/App/bin/Debug/net9.0/App.pdb
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.AssemblyInfoInputs.cache
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.AssemblyInfo.cs
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.csproj.CoreCompileInputs.cache
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.sourcelink.json
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.dll
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/refint/App.dll
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/App.pdb
+/Users/michaelmcallister/dev/net-interview-template/App/obj/Debug/net9.0/ref/App.dll
