@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net-interview-template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c51812a475aa6d6037d1ebf2f16f99164d4f9cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+257bb68ac27f06fbf83162f90547d559e1a9ba9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("net-interview-template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net-interview-template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
